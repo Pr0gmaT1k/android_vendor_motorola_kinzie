@@ -589,4 +589,3 @@ PRODUCT_COPY_FILES += \
  vendor/motorola/kinzie/proprietary/vendor/lib/libscale.so:system/vendor/lib/libscale.so \
  vendor/motorola/kinzie/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
  vendor/motorola/kinzie/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
- vendor/motorola/kinzie/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so 
